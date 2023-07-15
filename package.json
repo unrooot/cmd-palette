@@ -1,0 +1,17 @@
+{
+    "name": "cmd-palette",
+    "version": "1.0.0",
+    "description": "A command palette for streamlined task execution in Roblox Studio.",
+    "keywords": [
+        "Roblox",
+        "Nevermore",
+        "Lua"
+    ],
+    "license": "MIT",
+    "dependencies": {
+        "@quenty/basicpane": "^7.15.0",
+        "@quenty/blend": "^6.21.1",
+        "@quenty/loader": "^6.0.0",
+        "@quenty/servicebag": "^6.0.0"
+    }
+}

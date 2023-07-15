@@ -1,0 +1,12 @@
+{
+    "name": "cmd-palette",
+    "globIgnorePaths": [ "**/.bin/**", "**/.package-lock.json" ],
+    "tree": {
+        "$className": "DataModel",
+        "ServerScriptService": {
+            "cmd-palette": {
+                "$path": "src"
+            }
+        }
+    }
+}
