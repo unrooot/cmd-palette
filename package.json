@@ -11,7 +11,12 @@
     "dependencies": {
         "@quenty/basicpane": "^7.15.0",
         "@quenty/blend": "^6.21.1",
+        "@quenty/brio": "^8.15.0",
+        "@quenty/fzy": "^1.4.1",
         "@quenty/loader": "^6.0.0",
-        "@quenty/servicebag": "^6.0.0"
+        "@quenty/observablecollection": "^5.20.0",
+        "@quenty/roblox-api-dump": "^4.7.0",
+        "@quenty/servicebag": "^6.0.0",
+        "@quenty/signal": "^2.4.0"
     }
 }
